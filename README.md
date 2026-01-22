@@ -303,6 +303,3 @@ Savitzky-Golay filter applied to valid trajectory points:
 - Real-time processing optimization
 - 3D trajectory reconstruction using calibrated cameras
 
-## Author
-
-Jayanth - [GitHub](https://github.com/jayanth260)
